@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\Day01_variable\bin\Debug\Day01_variable.exe.config
+C:\Users\user\source\repos\Day01_variable\bin\Debug\Day01_variable.exe
+C:\Users\user\source\repos\Day01_variable\bin\Debug\Day01_variable.pdb
+C:\Users\user\source\repos\Day01_variable\obj\Debug\Day01_variable.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Day01_variable\obj\Debug\Day01_variable.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Day01_variable\obj\Debug\Day01_variable.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Day01_variable\obj\Debug\Day01_variable.exe
+C:\Users\user\source\repos\Day01_variable\obj\Debug\Day01_variable.pdb

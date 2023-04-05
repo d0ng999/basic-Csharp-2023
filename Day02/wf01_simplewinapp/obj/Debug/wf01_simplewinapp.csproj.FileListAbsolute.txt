@@ -1,0 +1,8 @@
+C:\Source\basic-Csharp-2023\Day02\wf01_simplewinapp\bin\Debug\wf01_simplewinapp.exe.config
+C:\Source\basic-Csharp-2023\Day02\wf01_simplewinapp\bin\Debug\wf01_simplewinapp.exe
+C:\Source\basic-Csharp-2023\Day02\wf01_simplewinapp\bin\Debug\wf01_simplewinapp.pdb
+C:\Source\basic-Csharp-2023\Day02\wf01_simplewinapp\obj\Debug\wf01_simplewinapp.csproj.AssemblyReference.cache
+C:\Source\basic-Csharp-2023\Day02\wf01_simplewinapp\obj\Debug\wf01_simplewinapp.csproj.SuggestedBindingRedirects.cache
+C:\Source\basic-Csharp-2023\Day02\wf01_simplewinapp\obj\Debug\wf01_simplewinapp.csproj.CoreCompileInputs.cache
+C:\Source\basic-Csharp-2023\Day02\wf01_simplewinapp\obj\Debug\wf01_simplewinapp.exe
+C:\Source\basic-Csharp-2023\Day02\wf01_simplewinapp\obj\Debug\wf01_simplewinapp.pdb

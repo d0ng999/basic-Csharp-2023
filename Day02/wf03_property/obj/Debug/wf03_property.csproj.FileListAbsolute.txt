@@ -1,0 +1,11 @@
+C:\Source\basic-Csharp-2023\Day02\wf03_property\bin\Debug\wf03_property.exe.config
+C:\Source\basic-Csharp-2023\Day02\wf03_property\bin\Debug\wf03_property.exe
+C:\Source\basic-Csharp-2023\Day02\wf03_property\bin\Debug\wf03_property.pdb
+C:\Source\basic-Csharp-2023\Day02\wf03_property\obj\Debug\wf03_property.csproj.AssemblyReference.cache
+C:\Source\basic-Csharp-2023\Day02\wf03_property\obj\Debug\wf03_property.csproj.SuggestedBindingRedirects.cache
+C:\Source\basic-Csharp-2023\Day02\wf03_property\obj\Debug\wf03_property.frmMain.resources
+C:\Source\basic-Csharp-2023\Day02\wf03_property\obj\Debug\wf03_property.Properties.Resources.resources
+C:\Source\basic-Csharp-2023\Day02\wf03_property\obj\Debug\wf03_property.csproj.GenerateResource.cache
+C:\Source\basic-Csharp-2023\Day02\wf03_property\obj\Debug\wf03_property.csproj.CoreCompileInputs.cache
+C:\Source\basic-Csharp-2023\Day02\wf03_property\obj\Debug\wf03_property.exe
+C:\Source\basic-Csharp-2023\Day02\wf03_property\obj\Debug\wf03_property.pdb

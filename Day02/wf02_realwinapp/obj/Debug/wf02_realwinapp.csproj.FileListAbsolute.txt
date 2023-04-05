@@ -1,0 +1,11 @@
+C:\Source\basic-Csharp-2023\Day02\wf02_realwinapp\bin\Debug\wf02_realwinapp.exe.config
+C:\Source\basic-Csharp-2023\Day02\wf02_realwinapp\bin\Debug\wf02_realwinapp.exe
+C:\Source\basic-Csharp-2023\Day02\wf02_realwinapp\bin\Debug\wf02_realwinapp.pdb
+C:\Source\basic-Csharp-2023\Day02\wf02_realwinapp\obj\Debug\wf02_realwinapp.csproj.AssemblyReference.cache
+C:\Source\basic-Csharp-2023\Day02\wf02_realwinapp\obj\Debug\wf02_realwinapp.csproj.SuggestedBindingRedirects.cache
+C:\Source\basic-Csharp-2023\Day02\wf02_realwinapp\obj\Debug\wf02_realwinapp.FrmMain.resources
+C:\Source\basic-Csharp-2023\Day02\wf02_realwinapp\obj\Debug\wf02_realwinapp.Properties.Resources.resources
+C:\Source\basic-Csharp-2023\Day02\wf02_realwinapp\obj\Debug\wf02_realwinapp.csproj.GenerateResource.cache
+C:\Source\basic-Csharp-2023\Day02\wf02_realwinapp\obj\Debug\wf02_realwinapp.csproj.CoreCompileInputs.cache
+C:\Source\basic-Csharp-2023\Day02\wf02_realwinapp\obj\Debug\wf02_realwinapp.exe
+C:\Source\basic-Csharp-2023\Day02\wf02_realwinapp\obj\Debug\wf02_realwinapp.pdb
