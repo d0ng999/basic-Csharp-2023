@@ -1,0 +1,8 @@
+C:\Source\basic-Csharp-2023\Day03\Day03ConsoleApp\cs13_class\bin\Debug\cs13_class.exe.config
+C:\Source\basic-Csharp-2023\Day03\Day03ConsoleApp\cs13_class\bin\Debug\cs13_class.exe
+C:\Source\basic-Csharp-2023\Day03\Day03ConsoleApp\cs13_class\bin\Debug\cs13_class.pdb
+C:\Source\basic-Csharp-2023\Day03\Day03ConsoleApp\cs13_class\obj\Debug\cs13_class.csproj.AssemblyReference.cache
+C:\Source\basic-Csharp-2023\Day03\Day03ConsoleApp\cs13_class\obj\Debug\cs13_class.csproj.SuggestedBindingRedirects.cache
+C:\Source\basic-Csharp-2023\Day03\Day03ConsoleApp\cs13_class\obj\Debug\cs13_class.csproj.CoreCompileInputs.cache
+C:\Source\basic-Csharp-2023\Day03\Day03ConsoleApp\cs13_class\obj\Debug\cs13_class.exe
+C:\Source\basic-Csharp-2023\Day03\Day03ConsoleApp\cs13_class\obj\Debug\cs13_class.pdb

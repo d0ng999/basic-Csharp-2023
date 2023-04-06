@@ -1,0 +1,8 @@
+C:\Source\basic-Csharp-2023\Day03\Day03ConsoleApp\cs15_accessmodifier\bin\Debug\cs15_accessmodifier.exe.config
+C:\Source\basic-Csharp-2023\Day03\Day03ConsoleApp\cs15_accessmodifier\bin\Debug\cs15_accessmodifier.exe
+C:\Source\basic-Csharp-2023\Day03\Day03ConsoleApp\cs15_accessmodifier\bin\Debug\cs15_accessmodifier.pdb
+C:\Source\basic-Csharp-2023\Day03\Day03ConsoleApp\cs15_accessmodifier\obj\Debug\cs15_accessmodifier.csproj.AssemblyReference.cache
+C:\Source\basic-Csharp-2023\Day03\Day03ConsoleApp\cs15_accessmodifier\obj\Debug\cs15_accessmodifier.csproj.SuggestedBindingRedirects.cache
+C:\Source\basic-Csharp-2023\Day03\Day03ConsoleApp\cs15_accessmodifier\obj\Debug\cs15_accessmodifier.csproj.CoreCompileInputs.cache
+C:\Source\basic-Csharp-2023\Day03\Day03ConsoleApp\cs15_accessmodifier\obj\Debug\cs15_accessmodifier.exe
+C:\Source\basic-Csharp-2023\Day03\Day03ConsoleApp\cs15_accessmodifier\obj\Debug\cs15_accessmodifier.pdb

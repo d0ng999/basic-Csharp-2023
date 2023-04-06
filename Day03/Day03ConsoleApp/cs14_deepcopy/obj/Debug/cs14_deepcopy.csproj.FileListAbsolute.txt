@@ -1,0 +1,8 @@
+C:\Source\basic-Csharp-2023\Day03\Day03ConsoleApp\cs14_deepcopy\bin\Debug\cs14_deepcopy.exe.config
+C:\Source\basic-Csharp-2023\Day03\Day03ConsoleApp\cs14_deepcopy\bin\Debug\cs14_deepcopy.exe
+C:\Source\basic-Csharp-2023\Day03\Day03ConsoleApp\cs14_deepcopy\bin\Debug\cs14_deepcopy.pdb
+C:\Source\basic-Csharp-2023\Day03\Day03ConsoleApp\cs14_deepcopy\obj\Debug\cs14_deepcopy.csproj.AssemblyReference.cache
+C:\Source\basic-Csharp-2023\Day03\Day03ConsoleApp\cs14_deepcopy\obj\Debug\cs14_deepcopy.csproj.SuggestedBindingRedirects.cache
+C:\Source\basic-Csharp-2023\Day03\Day03ConsoleApp\cs14_deepcopy\obj\Debug\cs14_deepcopy.csproj.CoreCompileInputs.cache
+C:\Source\basic-Csharp-2023\Day03\Day03ConsoleApp\cs14_deepcopy\obj\Debug\cs14_deepcopy.exe
+C:\Source\basic-Csharp-2023\Day03\Day03ConsoleApp\cs14_deepcopy\obj\Debug\cs14_deepcopy.pdb
