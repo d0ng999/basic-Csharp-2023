@@ -1,0 +1,8 @@
+C:\Source\basic-Csharp-2023\Day04\Day04ConsoleApp\cs17_inheritance\bin\Debug\cs17_inheritance.exe.config
+C:\Source\basic-Csharp-2023\Day04\Day04ConsoleApp\cs17_inheritance\bin\Debug\cs17_inheritance.exe
+C:\Source\basic-Csharp-2023\Day04\Day04ConsoleApp\cs17_inheritance\bin\Debug\cs17_inheritance.pdb
+C:\Source\basic-Csharp-2023\Day04\Day04ConsoleApp\cs17_inheritance\obj\Debug\cs17_inheritance.csproj.AssemblyReference.cache
+C:\Source\basic-Csharp-2023\Day04\Day04ConsoleApp\cs17_inheritance\obj\Debug\cs17_inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Source\basic-Csharp-2023\Day04\Day04ConsoleApp\cs17_inheritance\obj\Debug\cs17_inheritance.csproj.CoreCompileInputs.cache
+C:\Source\basic-Csharp-2023\Day04\Day04ConsoleApp\cs17_inheritance\obj\Debug\cs17_inheritance.exe
+C:\Source\basic-Csharp-2023\Day04\Day04ConsoleApp\cs17_inheritance\obj\Debug\cs17_inheritance.pdb

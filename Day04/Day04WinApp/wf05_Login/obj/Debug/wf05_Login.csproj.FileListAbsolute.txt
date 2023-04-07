@@ -1,0 +1,11 @@
+C:\Source\basic-Csharp-2023\Day04\Day04WinApp\wf05_Login\bin\Debug\wf05_Login.exe.config
+C:\Source\basic-Csharp-2023\Day04\Day04WinApp\wf05_Login\bin\Debug\wf05_Login.exe
+C:\Source\basic-Csharp-2023\Day04\Day04WinApp\wf05_Login\bin\Debug\wf05_Login.pdb
+C:\Source\basic-Csharp-2023\Day04\Day04WinApp\wf05_Login\obj\Debug\wf05_Login.csproj.AssemblyReference.cache
+C:\Source\basic-Csharp-2023\Day04\Day04WinApp\wf05_Login\obj\Debug\wf05_Login.csproj.SuggestedBindingRedirects.cache
+C:\Source\basic-Csharp-2023\Day04\Day04WinApp\wf05_Login\obj\Debug\wf05_Login.FrmMain.resources
+C:\Source\basic-Csharp-2023\Day04\Day04WinApp\wf05_Login\obj\Debug\wf05_Login.Properties.Resources.resources
+C:\Source\basic-Csharp-2023\Day04\Day04WinApp\wf05_Login\obj\Debug\wf05_Login.csproj.GenerateResource.cache
+C:\Source\basic-Csharp-2023\Day04\Day04WinApp\wf05_Login\obj\Debug\wf05_Login.csproj.CoreCompileInputs.cache
+C:\Source\basic-Csharp-2023\Day04\Day04WinApp\wf05_Login\obj\Debug\wf05_Login.exe
+C:\Source\basic-Csharp-2023\Day04\Day04WinApp\wf05_Login\obj\Debug\wf05_Login.pdb

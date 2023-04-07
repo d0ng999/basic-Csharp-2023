@@ -1,0 +1,11 @@
+C:\Source\basic-Csharp-2023\Day04\Day04WinApp\wf04_fileCopy\bin\Debug\wf04_fileCopy.exe.config
+C:\Source\basic-Csharp-2023\Day04\Day04WinApp\wf04_fileCopy\bin\Debug\wf04_fileCopy.exe
+C:\Source\basic-Csharp-2023\Day04\Day04WinApp\wf04_fileCopy\bin\Debug\wf04_fileCopy.pdb
+C:\Source\basic-Csharp-2023\Day04\Day04WinApp\wf04_fileCopy\obj\Debug\wf04_fileCopy.csproj.AssemblyReference.cache
+C:\Source\basic-Csharp-2023\Day04\Day04WinApp\wf04_fileCopy\obj\Debug\wf04_fileCopy.csproj.SuggestedBindingRedirects.cache
+C:\Source\basic-Csharp-2023\Day04\Day04WinApp\wf04_fileCopy\obj\Debug\wf04_fileCopy.FrmMain.resources
+C:\Source\basic-Csharp-2023\Day04\Day04WinApp\wf04_fileCopy\obj\Debug\wf04_fileCopy.Properties.Resources.resources
+C:\Source\basic-Csharp-2023\Day04\Day04WinApp\wf04_fileCopy\obj\Debug\wf04_fileCopy.csproj.GenerateResource.cache
+C:\Source\basic-Csharp-2023\Day04\Day04WinApp\wf04_fileCopy\obj\Debug\wf04_fileCopy.csproj.CoreCompileInputs.cache
+C:\Source\basic-Csharp-2023\Day04\Day04WinApp\wf04_fileCopy\obj\Debug\wf04_fileCopy.exe
+C:\Source\basic-Csharp-2023\Day04\Day04WinApp\wf04_fileCopy\obj\Debug\wf04_fileCopy.pdb

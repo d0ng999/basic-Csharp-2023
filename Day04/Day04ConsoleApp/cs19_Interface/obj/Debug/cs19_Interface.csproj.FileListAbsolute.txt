@@ -1,0 +1,8 @@
+C:\Source\basic-Csharp-2023\Day04\Day04ConsoleApp\cs19_Interface\bin\Debug\cs19_Interface.exe.config
+C:\Source\basic-Csharp-2023\Day04\Day04ConsoleApp\cs19_Interface\bin\Debug\cs19_Interface.exe
+C:\Source\basic-Csharp-2023\Day04\Day04ConsoleApp\cs19_Interface\bin\Debug\cs19_Interface.pdb
+C:\Source\basic-Csharp-2023\Day04\Day04ConsoleApp\cs19_Interface\obj\Debug\cs19_Interface.csproj.AssemblyReference.cache
+C:\Source\basic-Csharp-2023\Day04\Day04ConsoleApp\cs19_Interface\obj\Debug\cs19_Interface.csproj.SuggestedBindingRedirects.cache
+C:\Source\basic-Csharp-2023\Day04\Day04ConsoleApp\cs19_Interface\obj\Debug\cs19_Interface.csproj.CoreCompileInputs.cache
+C:\Source\basic-Csharp-2023\Day04\Day04ConsoleApp\cs19_Interface\obj\Debug\cs19_Interface.exe
+C:\Source\basic-Csharp-2023\Day04\Day04ConsoleApp\cs19_Interface\obj\Debug\cs19_Interface.pdb
