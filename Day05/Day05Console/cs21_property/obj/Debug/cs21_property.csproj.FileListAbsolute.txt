@@ -1,0 +1,3 @@
+C:\Source\basic-Csharp-2023\Day05\Day05Console\cs21_property\obj\Debug\cs21_property.csproj.AssemblyReference.cache
+C:\Source\basic-Csharp-2023\Day05\Day05Console\cs21_property\obj\Debug\cs21_property.csproj.SuggestedBindingRedirects.cache
+C:\Source\basic-Csharp-2023\Day05\Day05Console\cs21_property\obj\Debug\cs21_property.csproj.CoreCompileInputs.cache
