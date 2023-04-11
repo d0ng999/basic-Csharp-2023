@@ -1,0 +1,8 @@
+C:\Source\basic-Csharp-2023\Day06\Day06ConsoleApp\cs24_generic\bin\Debug\cs24_generic.exe.config
+C:\Source\basic-Csharp-2023\Day06\Day06ConsoleApp\cs24_generic\bin\Debug\cs24_generic.exe
+C:\Source\basic-Csharp-2023\Day06\Day06ConsoleApp\cs24_generic\bin\Debug\cs24_generic.pdb
+C:\Source\basic-Csharp-2023\Day06\Day06ConsoleApp\cs24_generic\obj\Debug\cs24_generic.csproj.AssemblyReference.cache
+C:\Source\basic-Csharp-2023\Day06\Day06ConsoleApp\cs24_generic\obj\Debug\cs24_generic.csproj.SuggestedBindingRedirects.cache
+C:\Source\basic-Csharp-2023\Day06\Day06ConsoleApp\cs24_generic\obj\Debug\cs24_generic.csproj.CoreCompileInputs.cache
+C:\Source\basic-Csharp-2023\Day06\Day06ConsoleApp\cs24_generic\obj\Debug\cs24_generic.exe
+C:\Source\basic-Csharp-2023\Day06\Day06ConsoleApp\cs24_generic\obj\Debug\cs24_generic.pdb

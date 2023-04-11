@@ -1,0 +1,11 @@
+C:\Source\basic-Csharp-2023\Day06\wf09_dbhandling\wf09_dbhandling\bin\Debug\wf09_dbhandling.exe.config
+C:\Source\basic-Csharp-2023\Day06\wf09_dbhandling\wf09_dbhandling\bin\Debug\wf09_dbhandling.exe
+C:\Source\basic-Csharp-2023\Day06\wf09_dbhandling\wf09_dbhandling\bin\Debug\wf09_dbhandling.pdb
+C:\Source\basic-Csharp-2023\Day06\wf09_dbhandling\wf09_dbhandling\obj\Debug\wf09_dbhandling.csproj.AssemblyReference.cache
+C:\Source\basic-Csharp-2023\Day06\wf09_dbhandling\wf09_dbhandling\obj\Debug\wf09_dbhandling.csproj.SuggestedBindingRedirects.cache
+C:\Source\basic-Csharp-2023\Day06\wf09_dbhandling\wf09_dbhandling\obj\Debug\wf09_dbhandling.FrmMain.resources
+C:\Source\basic-Csharp-2023\Day06\wf09_dbhandling\wf09_dbhandling\obj\Debug\wf09_dbhandling.Properties.Resources.resources
+C:\Source\basic-Csharp-2023\Day06\wf09_dbhandling\wf09_dbhandling\obj\Debug\wf09_dbhandling.csproj.GenerateResource.cache
+C:\Source\basic-Csharp-2023\Day06\wf09_dbhandling\wf09_dbhandling\obj\Debug\wf09_dbhandling.csproj.CoreCompileInputs.cache
+C:\Source\basic-Csharp-2023\Day06\wf09_dbhandling\wf09_dbhandling\obj\Debug\wf09_dbhandling.exe
+C:\Source\basic-Csharp-2023\Day06\wf09_dbhandling\wf09_dbhandling\obj\Debug\wf09_dbhandling.pdb

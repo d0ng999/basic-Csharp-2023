@@ -1,0 +1,8 @@
+C:\Source\basic-Csharp-2023\Day06\Day06ConsoleApp\cs25_exception\bin\Debug\cs25_exception.exe.config
+C:\Source\basic-Csharp-2023\Day06\Day06ConsoleApp\cs25_exception\bin\Debug\cs25_exception.exe
+C:\Source\basic-Csharp-2023\Day06\Day06ConsoleApp\cs25_exception\bin\Debug\cs25_exception.pdb
+C:\Source\basic-Csharp-2023\Day06\Day06ConsoleApp\cs25_exception\obj\Debug\cs25_exception.csproj.AssemblyReference.cache
+C:\Source\basic-Csharp-2023\Day06\Day06ConsoleApp\cs25_exception\obj\Debug\cs25_exception.csproj.SuggestedBindingRedirects.cache
+C:\Source\basic-Csharp-2023\Day06\Day06ConsoleApp\cs25_exception\obj\Debug\cs25_exception.csproj.CoreCompileInputs.cache
+C:\Source\basic-Csharp-2023\Day06\Day06ConsoleApp\cs25_exception\obj\Debug\cs25_exception.exe
+C:\Source\basic-Csharp-2023\Day06\Day06ConsoleApp\cs25_exception\obj\Debug\cs25_exception.pdb
